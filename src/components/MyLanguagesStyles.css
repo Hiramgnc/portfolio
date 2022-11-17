@@ -1,0 +1,50 @@
+.languaje {
+    width: 100%;
+    padding: 6rem 1rem;
+    background-color: black;
+}
+
+.cardContainer {
+    max-width: 1140px;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 40px;
+}
+
+
+.card {
+    border: 1px solid yellow;
+    color: #eee;
+    text-align: center;
+    padding: 1rem;
+}
+
+.card:hover {
+    background: #141414;
+}
+
+.card h3 {
+    color: yellow;
+    font-size: 1.8rem;
+    padding: 1rem;
+}
+
+.card p {
+    padding: 10px 0;
+}
+
+.bar {
+    border-bottom: 1px solid yellow;
+    width: 100%;
+    margin: 1rem auto;
+    display: block;
+}
+
+@media screen and (max-width: 740px){
+    .cardContainer {
+        max-width: 90%;
+        margin: auto;
+        grid-template-columns: 1fr;
+    }
+}
