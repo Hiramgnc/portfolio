@@ -38,7 +38,7 @@ const Footer = () => {
                         me llevo a encontrar nuevos retos en el mundo tech, formándome y encontrando pasión principalmente en 
                         tecnologías como React, Redux, JavaScrip y Node Js. Aprendí estos conocimientos cursando la carrera de 
                         Full Stack Developer del bootcamp de Henry, donde complete dos grandes proyectos, uno individual y otro muy enriquecedor 
-                        trabajando en equipi. Mi larga experiencia en el mundo comercial desarrollo mis habilidades blandas de trabajo de equipo, 
+                        trabajando en equipo. Mi larga experiencia en el mundo comercial desarrollo mis habilidades blandas de trabajo de equipo, 
                         liderazgo, comunicación, resolución de problemas y orientación a resultados. Quiero conocer mas este mundo y estoy en 
                         constante formación pero me siento preparado para afrontar nuevos desafios.
                     </p>
