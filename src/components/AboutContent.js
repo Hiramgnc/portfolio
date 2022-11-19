@@ -10,8 +10,8 @@ const AboutContent = () => {
         <div className="about">
             <div className="left">
                 <h1>Quién soy?</h1>
-                <p>Soy un desarrollador full stack egresado del bootcamp Henry,
-                    que esta dando sus primeros pasos en mundo it
+                <p>Soy desarrollador full stack egresado del bootcamp Henry,
+                    que esta dando sus primeros pasos en mundo It.
                 </p>
                 <Link to="/contact">
                     <button className="btn">Contacto</button>

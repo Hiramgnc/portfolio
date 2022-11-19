@@ -6,7 +6,7 @@ const ProjectCardData = [
     {
         imgsrc: pro1,
         title: "Sitio web Api Food",
-        text: "Proyecto hecho en el bootcamp soy henry que hace un monton de boludeces y tiene recetas dieteticas",
+        text: "Proyecto individual bootcamp Soy Henry. Web de recetas saludables donde se puede crear, buscar, ordenar, filtrar por tipos de recetas y por puntuación",
         view: "https://food-api-mu.vercel.app/",
         source: "https://github.com/Hiramgnc/Pokemon-Api",
     },
@@ -14,7 +14,7 @@ const ProjectCardData = [
     {
         imgsrc: pro2,
         title: "Sitio web Reparo.io",
-        text: "Proyecto hecho en el bootcamp soy henry que hace un monton de boludeces y tiene recetas dieteticas",
+        text: "Web de servicios para el hogar creada por 8 personas para proyecto final de bootcamp Soy Henry, donde hay carrito de compras, pasarela de pago, usuario admin, etc ",
         view: "https://reparoio-git-develop-joel301.vercel.app/",
         source: "https://github.com/Joel301/reparo_io_backend",
     },
@@ -22,7 +22,7 @@ const ProjectCardData = [
     {
         imgsrc: pro3,
         title: "Sitio web Pokemon Api",
-        text: "Proyecto hecho en el bootcamp soy henry que hace un monton de boludeces y tiene recetas dieteticas",
+        text: "Proyecto individual de Pokemon del bootcamp Soy Henry. Se pueden crear Pokémon y almacenarlos en la base de datos, buscar, ordenar, filtrar y ver los detalles de cada uno",
         view: "https://www.google.com.ar",
         source: "https://github.com/Hiramgnc/Hiram-Api-Food",
     },

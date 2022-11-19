@@ -8,7 +8,10 @@ const About = () => {
     return (
         <div>
             <NavBar/>
-            <HeroImg2 heading="ABOUT" text="Soy un desarrollador full stack apasionado"/>
+            <HeroImg2 heading="SOBRE MI" text="
+                Soy una persona con constante actitud positiva, autodidacta y sociable.
+                Manejo tecnologías como HTML, CSS, JavaScrip React, Redux, Node Js, Express, SQL y estoy aprendiendo MongoDb. 
+            "/>
             <AboutContent/>
             <Footer/>
         </div>
