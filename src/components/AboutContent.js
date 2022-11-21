@@ -10,8 +10,10 @@ const AboutContent = () => {
         <div className="about">
             <div className="left">
                 <h1>Quién soy?</h1>
-                <p>Soy desarrollador full stack egresado del bootcamp Henry,
-                    que esta dando sus primeros pasos en mundo It.
+                <p>Me defino como una persona emprendedora, comunicativa, 
+                    positiva, segura de que estamos rodeados de alternativas y oportunidades.
+                    Tengo como objetivo sumarme a un equipo de desarrollo en el cual aprender y crecer,
+                    participando de un proyecto en el cual pueda aportar valor, enfrentar nuevos desafíos y experiencias.       
                 </p>
                 <Link to="/contact">
                     <button className="btn">Contacto</button>
