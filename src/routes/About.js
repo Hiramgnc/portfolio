@@ -9,8 +9,10 @@ const About = () => {
         <div>
             <NavBar/>
             <HeroImg2 heading="SOBRE MI" text="
-                Soy una persona con constante actitud positiva, autodidacta y sociable.
-                Manejo tecnologías como HTML, CSS, JavaScrip React, Redux, Node Js, Express, SQL y estoy aprendiendo MongoDb. 
+                Soy desarrollador full stack egresado del bootcamp Henry,
+                que esta dando sus primeros pasos en mundo It.
+                Manejo tecnologías como HTML, CSS, JavaScrip React, Redux, Node Js, Express, SQL
+                y estoy aprendiendo MongoDb. 
             "/>
             <AboutContent/>
             <Footer/>
