@@ -23,7 +23,7 @@ const ProjectCardData = [
         imgsrc: pro3,
         title: "Sitio web Pokemon Api",
         text: "Proyecto individual de Pokemon del bootcamp Soy Henry. Se pueden crear Pokémon y almacenarlos en la base de datos, buscar, ordenar, filtrar y ver los detalles de cada uno",
-        view: "https://food-api-mu.vercel.app/",
+        view: "https://pokemon-c7uxgqvls-hiramgnc.vercel.app/",
         source: "https://github.com/Hiramgnc/Pokemon-Api",
     },
 ];
