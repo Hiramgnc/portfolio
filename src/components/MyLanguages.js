@@ -23,6 +23,7 @@ const MyLanguages = () => {
                     <p>- Node.JS</p>
                     <p>- Express</p>
                     <p>- SQL</p>
+                    <p>- PHP</p>
                 </div>
             </div>
         </div>
