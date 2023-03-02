@@ -26,6 +26,14 @@ const ProjectCardData = [
         view: "https://pokemon-c7uxgqvls-hiramgnc.vercel.app/",
         source: "https://github.com/Hiramgnc/Pokemon-Api",
     },
+    
+     {
+        imgsrc: pro5,
+        title: "Sistema de Facturación",
+        text: "Sistema de facturacion e inventario con PHP ",
+        view: "https://hiramgncfacturacionphp.000webhostapp.com/",
+        source: "https://github.com/Hiramgnc/Pokemon-Api",
+    },
 ];
 
 export default ProjectCardData;
