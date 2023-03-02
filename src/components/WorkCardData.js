@@ -28,7 +28,7 @@ const ProjectCardData = [
     },
     
      {
-        imgsrc: pro5,
+        imgsrc: pro4,
         title: "Sistema de Facturación",
         text: "Sistema de facturacion e inventario con PHP ",
         view: "https://hiramgncfacturacionphp.000webhostapp.com/",
