@@ -8,7 +8,7 @@ const ProjectCardData = [
         imgsrc: pro1,
         title: "Sitio web Api Food",
         text: "Proyecto individual bootcamp Soy Henry. Web de recetas saludables donde se puede crear, buscar, ordenar, filtrar por tipos de recetas y por puntuación",
-        view: "https://food-api-mu.vercel.app/",
+        view: "https://food-red-delta.vercel.app/",
         source: "https://github.com/Hiramgnc/Pokemon-Api",
     },
 
